@@ -1,8 +1,0 @@
-print("hola mundo")
-print(2+2)
-print(2-1)
-print(16/4)
-print(7*7)
-print(8**2)
-print(19%3)
-print(8//3)

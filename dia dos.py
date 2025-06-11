@@ -29,7 +29,6 @@ porciento= num_dos % num_uno
 elevar= num_uno ** num_dos
 floor_division=num_uno // num_dos
 radio=30
-circumference= Pi * radio
 circuferencia= 2 * Pi * radio
 radio= float(input("ingresa el radio del circulo"))
 circulo= Pi* radio ** 2
