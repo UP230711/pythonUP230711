@@ -61,4 +61,7 @@ print("tupla:", tupla)
 print("conjunto:", conjunto)
 print("Diccionario:", diccionario)
 
-
+p1, q1 = 2, 3
+p2, q2 = 10, 8
+distancia_euclidiana = ((p1-q1)**2+(p2-q2)**2)**(1/2)
+print (distancia_euclidiana)
